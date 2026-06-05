@@ -1,5 +1,3 @@
-<img width="636" height="581" alt="Screenshot 2026-06-05 at 11 17 30 AM" src="https://github.com/user-attachments/assets/95d050b1-1392-4354-88f4-ba33e2ed945a" />
-<img width="1319" height="545" alt="Screenshot 2026-06-05 at 11 17 05 AM" src="https://github.com/user-attachments/assets/e5e43802-8c70-41ad-8581-2bafadee63e9" />
 # Statistical-Analysis-of-Mass-Shooting-Demographics
 Overview
 This research project examines demographic, social, and environmental factors associated with mass shooting incidents in the United States. Using publicly available datasets and statistical analysis techniques, the project explores patterns within historical data to better understand characteristics and trends that appear across documented incidents.
